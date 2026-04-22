@@ -1,6 +1,6 @@
 # github commmands
 # git init
-# git add .
+# git add .git 
 # git commit -m "Initial commit"
 # git remote add origin <repo-url>
 # git branch -M main
